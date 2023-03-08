@@ -26,5 +26,6 @@ namespace Licoreria_AccesosdeDatos
             return Conexion;
         }
         //holis
+        //chicos quienes nomas pueden ver esto
     }
 }
